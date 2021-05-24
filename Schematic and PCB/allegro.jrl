@@ -1,0 +1,28 @@
+\t (00:00:08) allegro 17.4 S013 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Mon May 24 09:20:46 2021
+\t (00:00:08)         Host=DESKTOP-ABQCKT3 User=rober Pid=35320 CPUs=8
+\t (00:00:08) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:08) 
+   (00:00:09) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\i (00:00:10) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "crosstallk_pcb"
+\d (00:00:10) Design opened: D:/Users/robo/Github/youtube-3w-crosstalk/Schematic and PCB/crosstallk_pcb.brd
+\i (00:00:10) trapsize 68
+\i (00:00:10) trapsize 71
+\i (00:00:10) trapsize 72
+\i (00:00:10) trapsize 63
+\i (00:00:10) trapsize 63
+\i (00:00:11) trapsize 42
+\i (00:00:11) generaledit 
+\i (00:00:15) open 
+\i (00:00:34) fillin "D:/TMP/DAP/students/drnamvar/orcad/ISL 6236A V1I1.brd"
+\i (00:00:34) cd "D:/TMP/DAP/students/drnamvar/orcad"
+\t (00:00:34) Opening existing design...
+\w (00:00:35) WARNING(SPMHDB-212): Design feature(s) are disabled because selected product and option(s) do not
+match design capability required: DFM basic only checks; however constraint values are inherited to derived constraints. DRC set "out of date".. Either select required product and
+option(s) in Product Choices or click Update to Tier in File Properties to
+suppress the message. See Allegro PCB Design Solutions datasheet on
+www.cadence.com for mapping of products and options to design features.
+\i (00:00:36) fillin confirm
+\i (00:00:36) trapsize 1615
+\t (00:00:36)     Journal end - Mon May 24 09:21:14 2021

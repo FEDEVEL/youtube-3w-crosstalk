@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XTalkResult type = "Total" xmlVersion = "0">
+	<Property>
+		<CopyRight>CopyRight (C) 2012 Cadence Design Systems, Inc. All Rights Reserved.</CopyRight>
+		<TimeStamp>2021-05-12 15:23:38</TimeStamp>
+		<ProductVersion>
+			<SPDGEN version = "19.0.4.10301.249381   004" />
+			<SPDSIM version = "19.0.4.10301.249381   004" />
+		</ProductVersion>
+		<Neighbor>All</Neighbor>
+	</Property>
+	<AssignModel>
+		<RefDes name = "U1" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "4" net = "L1_1H_SIG1" model = "LVC1G17_OUT_50" />
+		</RefDes>
+		<RefDes name = "U10" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "2" net = "L1_6H_SIG1" model = "LVC1G17_IN_50" />
+		</RefDes>
+		<RefDes name = "U11" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "4" net = "L1_6H_SIG2" model = "LVC1G17_OUT_50" />
+		</RefDes>
+		<RefDes name = "U12" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "2" net = "L1_6H_SIG2" model = "LVC1G17_IN_50" />
+		</RefDes>
+		<RefDes name = "U13" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "4" net = "L3_1H_SIG1" model = "LVC1G17_OUT_50" />
+		</RefDes>
+		<RefDes name = "U14" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "2" net = "L3_1H_SIG1" model = "LVC1G17_IN_50" />
+		</RefDes>
+		<RefDes name = "U15" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "4" net = "L3_1H_SIG2" model = "LVC1G17_OUT_50" />
+		</RefDes>
+		<RefDes name = "U16" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "2" net = "L3_1H_SIG2" model = "LVC1G17_IN_50" />
+		</RefDes>
+		<RefDes name = "U17" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "4" net = "L3_3H_SIG1" model = "LVC1G17_OUT_50" />
+		</RefDes>
+		<RefDes name = "U18" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "2" net = "L3_3H_SIG1" model = "LVC1G17_IN_50" />
+		</RefDes>
+		<RefDes name = "U19" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "4" net = "L3_3H_SIG2" model = "LVC1G17_OUT_50" />
+		</RefDes>
+		<RefDes name = "U2" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "2" net = "L1_1H_SIG1" model = "LVC1G17_IN_50" />
+		</RefDes>
+		<RefDes name = "U20" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "2" net = "L3_3H_SIG2" model = "LVC1G17_IN_50" />
+		</RefDes>
+		<RefDes name = "U21" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "4" net = "L3_6H_SIG1" model = "LVC1G17_OUT_50" />
+		</RefDes>
+		<RefDes name = "U22" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "2" net = "L3_6H_SIG1" model = "LVC1G17_IN_50" />
+		</RefDes>
+		<RefDes name = "U23" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "4" net = "L3_6H_SIG2" model = "LVC1G17_OUT_50" />
+		</RefDes>
+		<RefDes name = "U24" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "2" net = "L3_6H_SIG2" model = "LVC1G17_IN_50" />
+		</RefDes>
+		<RefDes name = "U3" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "4" net = "L1_1H_SIG2" model = "LVC1G17_OUT_50" />
+		</RefDes>
+		<RefDes name = "U4" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "2" net = "L1_1H_SIG2" model = "LVC1G17_IN_50" />
+		</RefDes>
+		<RefDes name = "U5" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "4" net = "L1_3H_SIG1" model = "LVC1G17_OUT_50" />
+		</RefDes>
+		<RefDes name = "U6" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "2" net = "L1_3H_SIG1" model = "LVC1G17_IN_50" />
+		</RefDes>
+		<RefDes name = "U7" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "4" net = "L1_3H_SIG2" model = "LVC1G17_OUT_50" />
+		</RefDes>
+		<RefDes name = "U8" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "2" net = "L1_3H_SIG2" model = "LVC1G17_IN_50" />
+		</RefDes>
+		<RefDes name = "U9" IBIS = "D:\Users\robo\Github\youtube-3w-crosstalk\Schematic and PCB\sn74lvc1g17.ibs">
+			<PIN name = "4" net = "L1_6H_SIG1" model = "LVC1G17_OUT_50" />
+		</RefDes>
+	</AssignModel>
+	<Group name = "grp0" >
+		<Vic>
+			<Net name = "L1_1H_SIG2" />
+		</Vic>
+		<Agg>
+			<Net name = "L1_1H_SIG1" />
+		</Agg>
+		<Sim vicstate = "high" aggstimulus = "even" corner = "typ" curve = "./grp0/1/SpModel_051221_152336_V.CUR" >
+				<Net name = "L1_1H_SIG1">
+					<PIN name = "4" RefDes = "U1" type = "TX" state_stimulus = "even" waveform = "X_U1.Xpartial.4,0" max_xtalk = "5609.082" highpeak_xtalk = "5427.917" lowpeak_xtalk = "181.164" />
+					<PIN name = "2" RefDes = "U2" type = "RX" state_stimulus = "NA" waveform = "X_U2.Xpartial.2,0" max_xtalk = "8381.663" highpeak_xtalk = "8249.453" lowpeak_xtalk = "132.209" />
+				</Net>
+				<Net name = "L1_1H_SIG2">
+					<PIN name = "4" RefDes = "U3" type = "TX" state_stimulus = "high" waveform = "X_U3.Xpartial.4,0" max_xtalk = "520.897" highpeak_xtalk = "259.587" lowpeak_xtalk = "261.310" />
+					<PIN name = "2" RefDes = "U4" type = "RX" state_stimulus = "NA" waveform = "X_U4.Xpartial.2,0" max_xtalk = "3229.678" highpeak_xtalk = "1719.212" lowpeak_xtalk = "1510.466" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "high" aggstimulus = "odd" corner = "typ" curve = "./grp0/2/SpModel_051221_152336_V.CUR" >
+				<Net name = "L1_1H_SIG1">
+					<PIN name = "4" RefDes = "U1" type = "TX" state_stimulus = "odd" waveform = "X_U1.Xpartial.4,0" max_xtalk = "5224.666" highpeak_xtalk = "103.867" lowpeak_xtalk = "5120.799" />
+					<PIN name = "2" RefDes = "U2" type = "RX" state_stimulus = "NA" waveform = "X_U2.Xpartial.2,0" max_xtalk = "6205.370" highpeak_xtalk = "65.981" lowpeak_xtalk = "6139.389" />
+				</Net>
+				<Net name = "L1_1H_SIG2">
+					<PIN name = "4" RefDes = "U3" type = "TX" state_stimulus = "high" waveform = "X_U3.Xpartial.4,0" max_xtalk = "435.966" highpeak_xtalk = "271.499" lowpeak_xtalk = "164.467" />
+					<PIN name = "2" RefDes = "U4" type = "RX" state_stimulus = "NA" waveform = "X_U4.Xpartial.2,0" max_xtalk = "2515.015" highpeak_xtalk = "1119.748" lowpeak_xtalk = "1395.266" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "even" corner = "typ" curve = "./grp0/3/SpModel_051221_152334_V.CUR" >
+				<Net name = "L1_1H_SIG1">
+					<PIN name = "4" RefDes = "U1" type = "TX" state_stimulus = "even" waveform = "X_U1.Xpartial.4,0" max_xtalk = "5203.214" highpeak_xtalk = "103.867" lowpeak_xtalk = "5099.347" />
+					<PIN name = "2" RefDes = "U2" type = "RX" state_stimulus = "NA" waveform = "X_U2.Xpartial.2,0" max_xtalk = "6205.264" highpeak_xtalk = "65.939" lowpeak_xtalk = "6139.325" />
+				</Net>
+				<Net name = "L1_1H_SIG2">
+					<PIN name = "4" RefDes = "U3" type = "TX" state_stimulus = "low" waveform = "X_U3.Xpartial.4,0" max_xtalk = "439.697" highpeak_xtalk = "299.069" lowpeak_xtalk = "140.628" />
+					<PIN name = "2" RefDes = "U4" type = "RX" state_stimulus = "NA" waveform = "X_U4.Xpartial.2,0" max_xtalk = "2067.285" highpeak_xtalk = "1116.452" lowpeak_xtalk = "950.833" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "odd" corner = "typ" curve = "./grp0/4/SpModel_051221_152334_V.CUR" >
+				<Net name = "L1_1H_SIG1">
+					<PIN name = "4" RefDes = "U1" type = "TX" state_stimulus = "odd" waveform = "X_U1.Xpartial.4,0" max_xtalk = "5605.950" highpeak_xtalk = "5424.784" lowpeak_xtalk = "181.166" />
+					<PIN name = "2" RefDes = "U2" type = "RX" state_stimulus = "NA" waveform = "X_U2.Xpartial.2,0" max_xtalk = "8380.971" highpeak_xtalk = "8248.850" lowpeak_xtalk = "132.121" />
+				</Net>
+				<Net name = "L1_1H_SIG2">
+					<PIN name = "4" RefDes = "U3" type = "TX" state_stimulus = "low" waveform = "X_U3.Xpartial.4,0" max_xtalk = "517.734" highpeak_xtalk = "274.062" lowpeak_xtalk = "243.672" />
+					<PIN name = "2" RefDes = "U4" type = "RX" state_stimulus = "NA" waveform = "X_U4.Xpartial.2,0" max_xtalk = "2524.245" highpeak_xtalk = "1605.350" lowpeak_xtalk = "918.896" />
+				</Net>
+		</Sim>
+	</Group>
+	<Group name = "grp1" >
+		<Vic>
+			<Net name = "L1_1H_SIG1" />
+		</Vic>
+		<Agg>
+			<Net name = "L1_1H_SIG2" />
+		</Agg>
+		<Sim vicstate = "high" aggstimulus = "even" corner = "typ" curve = "./grp1/1/SpModel_051221_152336_V.CUR" >
+				<Net name = "L1_1H_SIG1">
+					<PIN name = "4" RefDes = "U1" type = "TX" state_stimulus = "high" waveform = "X_U1.Xpartial.4,0" max_xtalk = "520.902" highpeak_xtalk = "259.598" lowpeak_xtalk = "261.305" />
+					<PIN name = "2" RefDes = "U2" type = "RX" state_stimulus = "NA" waveform = "X_U2.Xpartial.2,0" max_xtalk = "3225.209" highpeak_xtalk = "1716.868" lowpeak_xtalk = "1508.341" />
+				</Net>
+				<Net name = "L1_1H_SIG2">
+					<PIN name = "4" RefDes = "U3" type = "TX" state_stimulus = "even" waveform = "X_U3.Xpartial.4,0" max_xtalk = "5609.688" highpeak_xtalk = "5428.519" lowpeak_xtalk = "181.169" />
+					<PIN name = "2" RefDes = "U4" type = "RX" state_stimulus = "NA" waveform = "X_U4.Xpartial.2,0" max_xtalk = "8383.955" highpeak_xtalk = "8251.691" lowpeak_xtalk = "132.264" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "high" aggstimulus = "odd" corner = "typ" curve = "./grp1/2/SpModel_051221_152336_V.CUR" >
+				<Net name = "L1_1H_SIG1">
+					<PIN name = "4" RefDes = "U1" type = "TX" state_stimulus = "high" waveform = "X_U1.Xpartial.4,0" max_xtalk = "435.475" highpeak_xtalk = "271.077" lowpeak_xtalk = "164.398" />
+					<PIN name = "2" RefDes = "U2" type = "RX" state_stimulus = "NA" waveform = "X_U2.Xpartial.2,0" max_xtalk = "2512.283" highpeak_xtalk = "1119.979" lowpeak_xtalk = "1392.304" />
+				</Net>
+				<Net name = "L1_1H_SIG2">
+					<PIN name = "4" RefDes = "U3" type = "TX" state_stimulus = "odd" waveform = "X_U3.Xpartial.4,0" max_xtalk = "5223.534" highpeak_xtalk = "103.869" lowpeak_xtalk = "5119.665" />
+					<PIN name = "2" RefDes = "U4" type = "RX" state_stimulus = "NA" waveform = "X_U4.Xpartial.2,0" max_xtalk = "6205.836" highpeak_xtalk = "66.057" lowpeak_xtalk = "6139.779" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "even" corner = "typ" curve = "./grp1/3/SpModel_051221_152336_V.CUR" >
+				<Net name = "L1_1H_SIG1">
+					<PIN name = "4" RefDes = "U1" type = "TX" state_stimulus = "low" waveform = "X_U1.Xpartial.4,0" max_xtalk = "439.168" highpeak_xtalk = "298.540" lowpeak_xtalk = "140.628" />
+					<PIN name = "2" RefDes = "U2" type = "RX" state_stimulus = "NA" waveform = "X_U2.Xpartial.2,0" max_xtalk = "2066.910" highpeak_xtalk = "1116.700" lowpeak_xtalk = "950.210" />
+				</Net>
+				<Net name = "L1_1H_SIG2">
+					<PIN name = "4" RefDes = "U3" type = "TX" state_stimulus = "even" waveform = "X_U3.Xpartial.4,0" max_xtalk = "5203.142" highpeak_xtalk = "103.870" lowpeak_xtalk = "5099.272" />
+					<PIN name = "2" RefDes = "U4" type = "RX" state_stimulus = "NA" waveform = "X_U4.Xpartial.2,0" max_xtalk = "6205.729" highpeak_xtalk = "66.014" lowpeak_xtalk = "6139.714" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "odd" corner = "typ" curve = "./grp1/4/SpModel_051221_152336_V.CUR" >
+				<Net name = "L1_1H_SIG1">
+					<PIN name = "4" RefDes = "U1" type = "TX" state_stimulus = "low" waveform = "X_U1.Xpartial.4,0" max_xtalk = "517.583" highpeak_xtalk = "274.054" lowpeak_xtalk = "243.529" />
+					<PIN name = "2" RefDes = "U2" type = "RX" state_stimulus = "NA" waveform = "X_U2.Xpartial.2,0" max_xtalk = "2521.654" highpeak_xtalk = "1603.134" lowpeak_xtalk = "918.520" />
+				</Net>
+				<Net name = "L1_1H_SIG2">
+					<PIN name = "4" RefDes = "U3" type = "TX" state_stimulus = "odd" waveform = "X_U3.Xpartial.4,0" max_xtalk = "5606.508" highpeak_xtalk = "5425.338" lowpeak_xtalk = "181.171" />
+					<PIN name = "2" RefDes = "U4" type = "RX" state_stimulus = "NA" waveform = "X_U4.Xpartial.2,0" max_xtalk = "8383.252" highpeak_xtalk = "8251.076" lowpeak_xtalk = "132.176" />
+				</Net>
+		</Sim>
+	</Group>
+	<Group name = "grp2" >
+		<Vic>
+			<Net name = "L1_3H_SIG2" />
+		</Vic>
+		<Agg>
+			<Net name = "L1_3H_SIG1" />
+		</Agg>
+		<Sim vicstate = "high" aggstimulus = "even" corner = "typ" curve = "./grp2/1/SpModel_051221_152331_V.CUR" >
+				<Net name = "L1_3H_SIG1">
+					<PIN name = "4" RefDes = "U5" type = "TX" state_stimulus = "even" waveform = "X_U5.Xpartial.4,0" max_xtalk = "5647.451" highpeak_xtalk = "5465.239" lowpeak_xtalk = "182.212" />
+					<PIN name = "2" RefDes = "U6" type = "RX" state_stimulus = "NA" waveform = "X_U6.Xpartial.2,0" max_xtalk = "8689.120" highpeak_xtalk = "8536.660" lowpeak_xtalk = "152.461" />
+				</Net>
+				<Net name = "L1_3H_SIG2">
+					<PIN name = "4" RefDes = "U7" type = "TX" state_stimulus = "high" waveform = "X_U7.Xpartial.4,0" max_xtalk = "251.218" highpeak_xtalk = "131.717" lowpeak_xtalk = "119.501" />
+					<PIN name = "2" RefDes = "U8" type = "RX" state_stimulus = "NA" waveform = "X_U8.Xpartial.2,0" max_xtalk = "1573.019" highpeak_xtalk = "804.901" lowpeak_xtalk = "768.118" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "high" aggstimulus = "odd" corner = "typ" curve = "./grp2/2/SpModel_051221_152331_V.CUR" >
+				<Net name = "L1_3H_SIG1">
+					<PIN name = "4" RefDes = "U5" type = "TX" state_stimulus = "odd" waveform = "X_U5.Xpartial.4,0" max_xtalk = "5208.936" highpeak_xtalk = "104.317" lowpeak_xtalk = "5104.619" />
+					<PIN name = "2" RefDes = "U6" type = "RX" state_stimulus = "NA" waveform = "X_U6.Xpartial.2,0" max_xtalk = "6254.239" highpeak_xtalk = "78.876" lowpeak_xtalk = "6175.363" />
+				</Net>
+				<Net name = "L1_3H_SIG2">
+					<PIN name = "4" RefDes = "U7" type = "TX" state_stimulus = "high" waveform = "X_U7.Xpartial.4,0" max_xtalk = "214.248" highpeak_xtalk = "129.755" lowpeak_xtalk = "84.493" />
+					<PIN name = "2" RefDes = "U8" type = "RX" state_stimulus = "NA" waveform = "X_U8.Xpartial.2,0" max_xtalk = "1182.836" highpeak_xtalk = "499.921" lowpeak_xtalk = "682.915" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "even" corner = "typ" curve = "./grp2/3/SpModel_051221_152331_V.CUR" >
+				<Net name = "L1_3H_SIG1">
+					<PIN name = "4" RefDes = "U5" type = "TX" state_stimulus = "even" waveform = "X_U5.Xpartial.4,0" max_xtalk = "5209.584" highpeak_xtalk = "104.317" lowpeak_xtalk = "5105.266" />
+					<PIN name = "2" RefDes = "U6" type = "RX" state_stimulus = "NA" waveform = "X_U6.Xpartial.2,0" max_xtalk = "6254.226" highpeak_xtalk = "78.869" lowpeak_xtalk = "6175.357" />
+				</Net>
+				<Net name = "L1_3H_SIG2">
+					<PIN name = "4" RefDes = "U7" type = "TX" state_stimulus = "low" waveform = "X_U7.Xpartial.4,0" max_xtalk = "228.824" highpeak_xtalk = "140.573" lowpeak_xtalk = "88.251" />
+					<PIN name = "2" RefDes = "U8" type = "RX" state_stimulus = "NA" waveform = "X_U8.Xpartial.2,0" max_xtalk = "1173.099" highpeak_xtalk = "499.058" lowpeak_xtalk = "674.041" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "odd" corner = "typ" curve = "./grp2/4/SpModel_051221_152331_V.CUR" >
+				<Net name = "L1_3H_SIG1">
+					<PIN name = "4" RefDes = "U5" type = "TX" state_stimulus = "odd" waveform = "X_U5.Xpartial.4,0" max_xtalk = "5647.517" highpeak_xtalk = "5465.305" lowpeak_xtalk = "182.212" />
+					<PIN name = "2" RefDes = "U6" type = "RX" state_stimulus = "NA" waveform = "X_U6.Xpartial.2,0" max_xtalk = "8689.265" highpeak_xtalk = "8536.817" lowpeak_xtalk = "152.448" />
+				</Net>
+				<Net name = "L1_3H_SIG2">
+					<PIN name = "4" RefDes = "U7" type = "TX" state_stimulus = "low" waveform = "X_U7.Xpartial.4,0" max_xtalk = "269.425" highpeak_xtalk = "142.951" lowpeak_xtalk = "126.474" />
+					<PIN name = "2" RefDes = "U8" type = "RX" state_stimulus = "NA" waveform = "X_U8.Xpartial.2,0" max_xtalk = "1535.686" highpeak_xtalk = "797.166" lowpeak_xtalk = "738.520" />
+				</Net>
+		</Sim>
+	</Group>
+	<Group name = "grp3" >
+		<Vic>
+			<Net name = "L1_3H_SIG1" />
+		</Vic>
+		<Agg>
+			<Net name = "L1_3H_SIG2" />
+		</Agg>
+		<Sim vicstate = "high" aggstimulus = "even" corner = "typ" curve = "./grp3/1/SpModel_051221_152334_V.CUR" >
+				<Net name = "L1_3H_SIG1">
+					<PIN name = "4" RefDes = "U5" type = "TX" state_stimulus = "high" waveform = "X_U5.Xpartial.4,0" max_xtalk = "251.257" highpeak_xtalk = "131.736" lowpeak_xtalk = "119.521" />
+					<PIN name = "2" RefDes = "U6" type = "RX" state_stimulus = "NA" waveform = "X_U6.Xpartial.2,0" max_xtalk = "1572.660" highpeak_xtalk = "804.698" lowpeak_xtalk = "767.962" />
+				</Net>
+				<Net name = "L1_3H_SIG2">
+					<PIN name = "4" RefDes = "U7" type = "TX" state_stimulus = "even" waveform = "X_U7.Xpartial.4,0" max_xtalk = "5646.020" highpeak_xtalk = "5463.946" lowpeak_xtalk = "182.074" />
+					<PIN name = "2" RefDes = "U8" type = "RX" state_stimulus = "NA" waveform = "X_U8.Xpartial.2,0" max_xtalk = "8682.798" highpeak_xtalk = "8530.686" lowpeak_xtalk = "152.112" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "high" aggstimulus = "odd" corner = "typ" curve = "./grp3/2/SpModel_051221_152333_V.CUR" >
+				<Net name = "L1_3H_SIG1">
+					<PIN name = "4" RefDes = "U5" type = "TX" state_stimulus = "high" waveform = "X_U5.Xpartial.4,0" max_xtalk = "214.531" highpeak_xtalk = "129.690" lowpeak_xtalk = "84.842" />
+					<PIN name = "2" RefDes = "U6" type = "RX" state_stimulus = "NA" waveform = "X_U6.Xpartial.2,0" max_xtalk = "1182.819" highpeak_xtalk = "499.599" lowpeak_xtalk = "683.220" />
+				</Net>
+				<Net name = "L1_3H_SIG2">
+					<PIN name = "4" RefDes = "U7" type = "TX" state_stimulus = "odd" waveform = "X_U7.Xpartial.4,0" max_xtalk = "5208.075" highpeak_xtalk = "104.322" lowpeak_xtalk = "5103.752" />
+					<PIN name = "2" RefDes = "U8" type = "RX" state_stimulus = "NA" waveform = "X_U8.Xpartial.2,0" max_xtalk = "6253.308" highpeak_xtalk = "78.676" lowpeak_xtalk = "6174.632" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "even" corner = "typ" curve = "./grp3/3/SpModel_051221_152333_V.CUR" >
+				<Net name = "L1_3H_SIG1">
+					<PIN name = "4" RefDes = "U5" type = "TX" state_stimulus = "low" waveform = "X_U5.Xpartial.4,0" max_xtalk = "229.076" highpeak_xtalk = "140.469" lowpeak_xtalk = "88.607" />
+					<PIN name = "2" RefDes = "U6" type = "RX" state_stimulus = "NA" waveform = "X_U6.Xpartial.2,0" max_xtalk = "1173.013" highpeak_xtalk = "498.672" lowpeak_xtalk = "674.341" />
+				</Net>
+				<Net name = "L1_3H_SIG2">
+					<PIN name = "4" RefDes = "U7" type = "TX" state_stimulus = "even" waveform = "X_U7.Xpartial.4,0" max_xtalk = "5208.728" highpeak_xtalk = "104.322" lowpeak_xtalk = "5104.405" />
+					<PIN name = "2" RefDes = "U8" type = "RX" state_stimulus = "NA" waveform = "X_U8.Xpartial.2,0" max_xtalk = "6253.296" highpeak_xtalk = "78.669" lowpeak_xtalk = "6174.627" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "odd" corner = "typ" curve = "./grp3/4/SpModel_051221_152333_V.CUR" >
+				<Net name = "L1_3H_SIG1">
+					<PIN name = "4" RefDes = "U5" type = "TX" state_stimulus = "low" waveform = "X_U5.Xpartial.4,0" max_xtalk = "269.461" highpeak_xtalk = "142.967" lowpeak_xtalk = "126.494" />
+					<PIN name = "2" RefDes = "U6" type = "RX" state_stimulus = "NA" waveform = "X_U6.Xpartial.2,0" max_xtalk = "1535.245" highpeak_xtalk = "796.897" lowpeak_xtalk = "738.348" />
+				</Net>
+				<Net name = "L1_3H_SIG2">
+					<PIN name = "4" RefDes = "U7" type = "TX" state_stimulus = "odd" waveform = "X_U7.Xpartial.4,0" max_xtalk = "5646.086" highpeak_xtalk = "5464.012" lowpeak_xtalk = "182.074" />
+					<PIN name = "2" RefDes = "U8" type = "RX" state_stimulus = "NA" waveform = "X_U8.Xpartial.2,0" max_xtalk = "8682.953" highpeak_xtalk = "8530.853" lowpeak_xtalk = "152.100" />
+				</Net>
+		</Sim>
+	</Group>
+	<Group name = "grp4" >
+		<Vic>
+			<Net name = "L1_6H_SIG2" />
+		</Vic>
+		<Agg>
+			<Net name = "L1_6H_SIG1" />
+		</Agg>
+		<Sim vicstate = "high" aggstimulus = "even" corner = "typ" curve = "./grp4/1/SpModel_051221_152328_V.CUR" >
+				<Net name = "L1_6H_SIG1">
+					<PIN name = "2" RefDes = "U10" type = "RX" state_stimulus = "NA" waveform = "X_U10.Xpartial.2,0" max_xtalk = "8775.287" highpeak_xtalk = "8617.333" lowpeak_xtalk = "157.954" />
+					<PIN name = "4" RefDes = "U9" type = "TX" state_stimulus = "even" waveform = "X_U9.Xpartial.4,0" max_xtalk = "5674.657" highpeak_xtalk = "5492.374" lowpeak_xtalk = "182.283" />
+				</Net>
+				<Net name = "L1_6H_SIG2">
+					<PIN name = "4" RefDes = "U11" type = "TX" state_stimulus = "high" waveform = "X_U11.Xpartial.4,0" max_xtalk = "102.808" highpeak_xtalk = "54.788" lowpeak_xtalk = "48.020" />
+					<PIN name = "2" RefDes = "U12" type = "RX" state_stimulus = "NA" waveform = "X_U12.Xpartial.2,0" max_xtalk = "643.519" highpeak_xtalk = "327.173" lowpeak_xtalk = "316.346" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "high" aggstimulus = "odd" corner = "typ" curve = "./grp4/2/SpModel_051221_152328_V.CUR" >
+				<Net name = "L1_6H_SIG1">
+					<PIN name = "2" RefDes = "U10" type = "RX" state_stimulus = "NA" waveform = "X_U10.Xpartial.2,0" max_xtalk = "6274.196" highpeak_xtalk = "82.823" lowpeak_xtalk = "6191.373" />
+					<PIN name = "4" RefDes = "U9" type = "TX" state_stimulus = "odd" waveform = "X_U9.Xpartial.4,0" max_xtalk = "5225.574" highpeak_xtalk = "104.356" lowpeak_xtalk = "5121.218" />
+				</Net>
+				<Net name = "L1_6H_SIG2">
+					<PIN name = "4" RefDes = "U11" type = "TX" state_stimulus = "high" waveform = "X_U11.Xpartial.4,0" max_xtalk = "89.038" highpeak_xtalk = "53.714" lowpeak_xtalk = "35.324" />
+					<PIN name = "2" RefDes = "U12" type = "RX" state_stimulus = "NA" waveform = "X_U12.Xpartial.2,0" max_xtalk = "485.141" highpeak_xtalk = "201.643" lowpeak_xtalk = "283.498" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "even" corner = "typ" curve = "./grp4/3/SpModel_051221_152328_V.CUR" >
+				<Net name = "L1_6H_SIG1">
+					<PIN name = "2" RefDes = "U10" type = "RX" state_stimulus = "NA" waveform = "X_U10.Xpartial.2,0" max_xtalk = "6274.200" highpeak_xtalk = "82.822" lowpeak_xtalk = "6191.378" />
+					<PIN name = "4" RefDes = "U9" type = "TX" state_stimulus = "even" waveform = "X_U9.Xpartial.4,0" max_xtalk = "5225.656" highpeak_xtalk = "104.356" lowpeak_xtalk = "5121.300" />
+				</Net>
+				<Net name = "L1_6H_SIG2">
+					<PIN name = "4" RefDes = "U11" type = "TX" state_stimulus = "low" waveform = "X_U11.Xpartial.4,0" max_xtalk = "95.181" highpeak_xtalk = "57.760" lowpeak_xtalk = "37.421" />
+					<PIN name = "2" RefDes = "U12" type = "RX" state_stimulus = "NA" waveform = "X_U12.Xpartial.2,0" max_xtalk = "481.756" highpeak_xtalk = "201.339" lowpeak_xtalk = "280.417" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "odd" corner = "typ" curve = "./grp4/4/SpModel_051221_152328_V.CUR" >
+				<Net name = "L1_6H_SIG1">
+					<PIN name = "2" RefDes = "U10" type = "RX" state_stimulus = "NA" waveform = "X_U10.Xpartial.2,0" max_xtalk = "8775.323" highpeak_xtalk = "8617.371" lowpeak_xtalk = "157.952" />
+					<PIN name = "4" RefDes = "U9" type = "TX" state_stimulus = "odd" waveform = "X_U9.Xpartial.4,0" max_xtalk = "5674.677" highpeak_xtalk = "5492.394" lowpeak_xtalk = "182.283" />
+				</Net>
+				<Net name = "L1_6H_SIG2">
+					<PIN name = "4" RefDes = "U11" type = "TX" state_stimulus = "low" waveform = "X_U11.Xpartial.4,0" max_xtalk = "110.408" highpeak_xtalk = "58.823" lowpeak_xtalk = "51.584" />
+					<PIN name = "2" RefDes = "U12" type = "RX" state_stimulus = "NA" waveform = "X_U12.Xpartial.2,0" max_xtalk = "630.955" highpeak_xtalk = "323.130" lowpeak_xtalk = "307.825" />
+				</Net>
+		</Sim>
+	</Group>
+	<Group name = "grp5" >
+		<Vic>
+			<Net name = "L1_6H_SIG1" />
+		</Vic>
+		<Agg>
+			<Net name = "L1_6H_SIG2" />
+		</Agg>
+		<Sim vicstate = "high" aggstimulus = "even" corner = "typ" curve = "./grp5/1/SpModel_051221_152331_V.CUR" >
+				<Net name = "L1_6H_SIG1">
+					<PIN name = "2" RefDes = "U10" type = "RX" state_stimulus = "NA" waveform = "X_U10.Xpartial.2,0" max_xtalk = "643.136" highpeak_xtalk = "326.985" lowpeak_xtalk = "316.151" />
+					<PIN name = "4" RefDes = "U9" type = "TX" state_stimulus = "high" waveform = "X_U9.Xpartial.4,0" max_xtalk = "102.808" highpeak_xtalk = "54.789" lowpeak_xtalk = "48.019" />
+				</Net>
+				<Net name = "L1_6H_SIG2">
+					<PIN name = "4" RefDes = "U11" type = "TX" state_stimulus = "even" waveform = "X_U11.Xpartial.4,0" max_xtalk = "5674.791" highpeak_xtalk = "5492.503" lowpeak_xtalk = "182.288" />
+					<PIN name = "2" RefDes = "U12" type = "RX" state_stimulus = "NA" waveform = "X_U12.Xpartial.2,0" max_xtalk = "8775.802" highpeak_xtalk = "8617.832" lowpeak_xtalk = "157.971" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "high" aggstimulus = "odd" corner = "typ" curve = "./grp5/2/SpModel_051221_152331_V.CUR" >
+				<Net name = "L1_6H_SIG1">
+					<PIN name = "2" RefDes = "U10" type = "RX" state_stimulus = "NA" waveform = "X_U10.Xpartial.2,0" max_xtalk = "484.628" highpeak_xtalk = "201.663" lowpeak_xtalk = "282.965" />
+					<PIN name = "4" RefDes = "U9" type = "TX" state_stimulus = "high" waveform = "X_U9.Xpartial.4,0" max_xtalk = "88.934" highpeak_xtalk = "53.641" lowpeak_xtalk = "35.294" />
+				</Net>
+				<Net name = "L1_6H_SIG2">
+					<PIN name = "4" RefDes = "U11" type = "TX" state_stimulus = "odd" waveform = "X_U11.Xpartial.4,0" max_xtalk = "5225.542" highpeak_xtalk = "104.356" lowpeak_xtalk = "5121.186" />
+					<PIN name = "2" RefDes = "U12" type = "RX" state_stimulus = "NA" waveform = "X_U12.Xpartial.2,0" max_xtalk = "6274.339" highpeak_xtalk = "82.861" lowpeak_xtalk = "6191.478" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "even" corner = "typ" curve = "./grp5/3/SpModel_051221_152328_V.CUR" >
+				<Net name = "L1_6H_SIG1">
+					<PIN name = "2" RefDes = "U10" type = "RX" state_stimulus = "NA" waveform = "X_U10.Xpartial.2,0" max_xtalk = "481.263" highpeak_xtalk = "201.361" lowpeak_xtalk = "279.902" />
+					<PIN name = "4" RefDes = "U9" type = "TX" state_stimulus = "low" waveform = "X_U9.Xpartial.4,0" max_xtalk = "95.083" highpeak_xtalk = "57.688" lowpeak_xtalk = "37.395" />
+				</Net>
+				<Net name = "L1_6H_SIG2">
+					<PIN name = "4" RefDes = "U11" type = "TX" state_stimulus = "even" waveform = "X_U11.Xpartial.4,0" max_xtalk = "5225.624" highpeak_xtalk = "104.356" lowpeak_xtalk = "5121.268" />
+					<PIN name = "2" RefDes = "U12" type = "RX" state_stimulus = "NA" waveform = "X_U12.Xpartial.2,0" max_xtalk = "6274.342" highpeak_xtalk = "82.860" lowpeak_xtalk = "6191.482" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "odd" corner = "typ" curve = "./grp5/4/SpModel_051221_152328_V.CUR" >
+				<Net name = "L1_6H_SIG1">
+					<PIN name = "2" RefDes = "U10" type = "RX" state_stimulus = "NA" waveform = "X_U10.Xpartial.2,0" max_xtalk = "630.590" highpeak_xtalk = "322.940" lowpeak_xtalk = "307.650" />
+					<PIN name = "4" RefDes = "U9" type = "TX" state_stimulus = "low" waveform = "X_U9.Xpartial.4,0" max_xtalk = "110.411" highpeak_xtalk = "58.827" lowpeak_xtalk = "51.584" />
+				</Net>
+				<Net name = "L1_6H_SIG2">
+					<PIN name = "4" RefDes = "U11" type = "TX" state_stimulus = "odd" waveform = "X_U11.Xpartial.4,0" max_xtalk = "5674.807" highpeak_xtalk = "5492.519" lowpeak_xtalk = "182.288" />
+					<PIN name = "2" RefDes = "U12" type = "RX" state_stimulus = "NA" waveform = "X_U12.Xpartial.2,0" max_xtalk = "8775.840" highpeak_xtalk = "8617.871" lowpeak_xtalk = "157.969" />
+				</Net>
+		</Sim>
+	</Group>
+	<Group name = "grp6" >
+		<Vic>
+			<Net name = "L3_1H_SIG2" />
+		</Vic>
+		<Agg>
+			<Net name = "L3_1H_SIG1" />
+		</Agg>
+		<Sim vicstate = "high" aggstimulus = "even" corner = "typ" curve = "./grp6/1/SpModel_051221_152326_V.CUR" >
+				<Net name = "L3_1H_SIG1">
+					<PIN name = "4" RefDes = "U13" type = "TX" state_stimulus = "even" waveform = "X_U13.Xpartial.4,0" max_xtalk = "5653.650" highpeak_xtalk = "5479.165" lowpeak_xtalk = "174.485" />
+					<PIN name = "2" RefDes = "U14" type = "RX" state_stimulus = "NA" waveform = "X_U14.Xpartial.2,0" max_xtalk = "8528.159" highpeak_xtalk = "8375.999" lowpeak_xtalk = "152.159" />
+				</Net>
+				<Net name = "L3_1H_SIG2">
+					<PIN name = "4" RefDes = "U15" type = "TX" state_stimulus = "high" waveform = "X_U15.Xpartial.4,0" max_xtalk = "333.882" highpeak_xtalk = "174.225" lowpeak_xtalk = "159.657" />
+					<PIN name = "2" RefDes = "U16" type = "RX" state_stimulus = "NA" waveform = "X_U16.Xpartial.2,0" max_xtalk = "2161.769" highpeak_xtalk = "1090.052" lowpeak_xtalk = "1071.717" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "high" aggstimulus = "odd" corner = "typ" curve = "./grp6/2/SpModel_051221_152325_V.CUR" >
+				<Net name = "L3_1H_SIG1">
+					<PIN name = "4" RefDes = "U13" type = "TX" state_stimulus = "odd" waveform = "X_U13.Xpartial.4,0" max_xtalk = "5203.072" highpeak_xtalk = "100.265" lowpeak_xtalk = "5102.807" />
+					<PIN name = "2" RefDes = "U14" type = "RX" state_stimulus = "NA" waveform = "X_U14.Xpartial.2,0" max_xtalk = "6265.617" highpeak_xtalk = "81.285" lowpeak_xtalk = "6184.331" />
+				</Net>
+				<Net name = "L3_1H_SIG2">
+					<PIN name = "4" RefDes = "U15" type = "TX" state_stimulus = "high" waveform = "X_U15.Xpartial.4,0" max_xtalk = "279.037" highpeak_xtalk = "156.979" lowpeak_xtalk = "122.059" />
+					<PIN name = "2" RefDes = "U16" type = "RX" state_stimulus = "NA" waveform = "X_U16.Xpartial.2,0" max_xtalk = "1395.935" highpeak_xtalk = "592.890" lowpeak_xtalk = "803.044" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "even" corner = "typ" curve = "./grp6/3/SpModel_051221_152323_V.CUR" >
+				<Net name = "L3_1H_SIG1">
+					<PIN name = "4" RefDes = "U13" type = "TX" state_stimulus = "even" waveform = "X_U13.Xpartial.4,0" max_xtalk = "5204.373" highpeak_xtalk = "100.265" lowpeak_xtalk = "5104.107" />
+					<PIN name = "2" RefDes = "U14" type = "RX" state_stimulus = "NA" waveform = "X_U14.Xpartial.2,0" max_xtalk = "6265.651" highpeak_xtalk = "81.262" lowpeak_xtalk = "6184.389" />
+				</Net>
+				<Net name = "L3_1H_SIG2">
+					<PIN name = "4" RefDes = "U15" type = "TX" state_stimulus = "low" waveform = "X_U15.Xpartial.4,0" max_xtalk = "299.641" highpeak_xtalk = "170.119" lowpeak_xtalk = "129.522" />
+					<PIN name = "2" RefDes = "U16" type = "RX" state_stimulus = "NA" waveform = "X_U16.Xpartial.2,0" max_xtalk = "1366.939" highpeak_xtalk = "589.619" lowpeak_xtalk = "777.320" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "odd" corner = "typ" curve = "./grp6/4/SpModel_051221_152323_V.CUR" >
+				<Net name = "L3_1H_SIG1">
+					<PIN name = "4" RefDes = "U13" type = "TX" state_stimulus = "odd" waveform = "X_U13.Xpartial.4,0" max_xtalk = "5653.484" highpeak_xtalk = "5478.997" lowpeak_xtalk = "174.486" />
+					<PIN name = "2" RefDes = "U14" type = "RX" state_stimulus = "NA" waveform = "X_U14.Xpartial.2,0" max_xtalk = "8528.954" highpeak_xtalk = "8376.840" lowpeak_xtalk = "152.114" />
+				</Net>
+				<Net name = "L3_1H_SIG2">
+					<PIN name = "4" RefDes = "U15" type = "TX" state_stimulus = "low" waveform = "X_U15.Xpartial.4,0" max_xtalk = "345.134" highpeak_xtalk = "190.321" lowpeak_xtalk = "154.813" />
+					<PIN name = "2" RefDes = "U16" type = "RX" state_stimulus = "NA" waveform = "X_U16.Xpartial.2,0" max_xtalk = "1945.176" highpeak_xtalk = "1086.442" lowpeak_xtalk = "858.734" />
+				</Net>
+		</Sim>
+	</Group>
+	<Group name = "grp7" >
+		<Vic>
+			<Net name = "L3_1H_SIG1" />
+		</Vic>
+		<Agg>
+			<Net name = "L3_1H_SIG2" />
+		</Agg>
+		<Sim vicstate = "high" aggstimulus = "even" corner = "typ" curve = "./grp7/1/SpModel_051221_152326_V.CUR" >
+				<Net name = "L3_1H_SIG1">
+					<PIN name = "4" RefDes = "U13" type = "TX" state_stimulus = "high" waveform = "X_U13.Xpartial.4,0" max_xtalk = "333.888" highpeak_xtalk = "174.228" lowpeak_xtalk = "159.660" />
+					<PIN name = "2" RefDes = "U14" type = "RX" state_stimulus = "NA" waveform = "X_U14.Xpartial.2,0" max_xtalk = "2159.273" highpeak_xtalk = "1088.836" lowpeak_xtalk = "1070.437" />
+				</Net>
+				<Net name = "L3_1H_SIG2">
+					<PIN name = "4" RefDes = "U15" type = "TX" state_stimulus = "even" waveform = "X_U15.Xpartial.4,0" max_xtalk = "5654.137" highpeak_xtalk = "5479.645" lowpeak_xtalk = "174.492" />
+					<PIN name = "2" RefDes = "U16" type = "RX" state_stimulus = "NA" waveform = "X_U16.Xpartial.2,0" max_xtalk = "8529.338" highpeak_xtalk = "8377.169" lowpeak_xtalk = "152.169" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "high" aggstimulus = "odd" corner = "typ" curve = "./grp7/2/SpModel_051221_152326_V.CUR" >
+				<Net name = "L3_1H_SIG1">
+					<PIN name = "4" RefDes = "U13" type = "TX" state_stimulus = "high" waveform = "X_U13.Xpartial.4,0" max_xtalk = "278.765" highpeak_xtalk = "156.706" lowpeak_xtalk = "122.058" />
+					<PIN name = "2" RefDes = "U14" type = "RX" state_stimulus = "NA" waveform = "X_U14.Xpartial.2,0" max_xtalk = "1395.346" highpeak_xtalk = "593.231" lowpeak_xtalk = "802.115" />
+				</Net>
+				<Net name = "L3_1H_SIG2">
+					<PIN name = "4" RefDes = "U15" type = "TX" state_stimulus = "odd" waveform = "X_U15.Xpartial.4,0" max_xtalk = "5202.205" highpeak_xtalk = "100.269" lowpeak_xtalk = "5101.936" />
+					<PIN name = "2" RefDes = "U16" type = "RX" state_stimulus = "NA" waveform = "X_U16.Xpartial.2,0" max_xtalk = "6265.890" highpeak_xtalk = "81.281" lowpeak_xtalk = "6184.609" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "even" corner = "typ" curve = "./grp7/3/SpModel_051221_152326_V.CUR" >
+				<Net name = "L3_1H_SIG1">
+					<PIN name = "4" RefDes = "U13" type = "TX" state_stimulus = "low" waveform = "X_U13.Xpartial.4,0" max_xtalk = "299.368" highpeak_xtalk = "169.846" lowpeak_xtalk = "129.522" />
+					<PIN name = "2" RefDes = "U14" type = "RX" state_stimulus = "NA" waveform = "X_U14.Xpartial.2,0" max_xtalk = "1366.734" highpeak_xtalk = "589.973" lowpeak_xtalk = "776.761" />
+				</Net>
+				<Net name = "L3_1H_SIG2">
+					<PIN name = "4" RefDes = "U15" type = "TX" state_stimulus = "even" waveform = "X_U15.Xpartial.4,0" max_xtalk = "5203.525" highpeak_xtalk = "100.269" lowpeak_xtalk = "5103.256" />
+					<PIN name = "2" RefDes = "U16" type = "RX" state_stimulus = "NA" waveform = "X_U16.Xpartial.2,0" max_xtalk = "6265.925" highpeak_xtalk = "81.258" lowpeak_xtalk = "6184.667" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "odd" corner = "typ" curve = "./grp7/4/SpModel_051221_152326_V.CUR" >
+				<Net name = "L3_1H_SIG1">
+					<PIN name = "4" RefDes = "U13" type = "TX" state_stimulus = "low" waveform = "X_U13.Xpartial.4,0" max_xtalk = "345.151" highpeak_xtalk = "190.337" lowpeak_xtalk = "154.813" />
+					<PIN name = "2" RefDes = "U14" type = "RX" state_stimulus = "NA" waveform = "X_U14.Xpartial.2,0" max_xtalk = "1943.716" highpeak_xtalk = "1085.278" lowpeak_xtalk = "858.438" />
+				</Net>
+				<Net name = "L3_1H_SIG2">
+					<PIN name = "4" RefDes = "U15" type = "TX" state_stimulus = "odd" waveform = "X_U15.Xpartial.4,0" max_xtalk = "5653.960" highpeak_xtalk = "5479.467" lowpeak_xtalk = "174.493" />
+					<PIN name = "2" RefDes = "U16" type = "RX" state_stimulus = "NA" waveform = "X_U16.Xpartial.2,0" max_xtalk = "8530.143" highpeak_xtalk = "8378.019" lowpeak_xtalk = "152.124" />
+				</Net>
+		</Sim>
+	</Group>
+	<Group name = "grp8" >
+		<Vic>
+			<Net name = "L3_3H_SIG2" />
+		</Vic>
+		<Agg>
+			<Net name = "L3_3H_SIG1" />
+		</Agg>
+		<Sim vicstate = "high" aggstimulus = "even" corner = "typ" curve = "./grp8/1/SpModel_051221_152320_V.CUR" >
+				<Net name = "L3_3H_SIG1">
+					<PIN name = "4" RefDes = "U17" type = "TX" state_stimulus = "even" waveform = "X_U17.Xpartial.4,0" max_xtalk = "5702.335" highpeak_xtalk = "5527.098" lowpeak_xtalk = "175.237" />
+					<PIN name = "2" RefDes = "U18" type = "RX" state_stimulus = "NA" waveform = "X_U18.Xpartial.2,0" max_xtalk = "8721.650" highpeak_xtalk = "8566.034" lowpeak_xtalk = "155.616" />
+				</Net>
+				<Net name = "L3_3H_SIG2">
+					<PIN name = "4" RefDes = "U19" type = "TX" state_stimulus = "high" waveform = "X_U19.Xpartial.4,0" max_xtalk = "103.568" highpeak_xtalk = "54.874" lowpeak_xtalk = "48.694" />
+					<PIN name = "2" RefDes = "U20" type = "RX" state_stimulus = "NA" waveform = "X_U20.Xpartial.2,0" max_xtalk = "618.027" highpeak_xtalk = "312.751" lowpeak_xtalk = "305.277" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "high" aggstimulus = "odd" corner = "typ" curve = "./grp8/2/SpModel_051221_152320_V.CUR" >
+				<Net name = "L3_3H_SIG1">
+					<PIN name = "4" RefDes = "U17" type = "TX" state_stimulus = "odd" waveform = "X_U17.Xpartial.4,0" max_xtalk = "5226.972" highpeak_xtalk = "100.647" lowpeak_xtalk = "5126.325" />
+					<PIN name = "2" RefDes = "U18" type = "RX" state_stimulus = "NA" waveform = "X_U18.Xpartial.2,0" max_xtalk = "6298.731" highpeak_xtalk = "83.921" lowpeak_xtalk = "6214.810" />
+				</Net>
+				<Net name = "L3_3H_SIG2">
+					<PIN name = "4" RefDes = "U19" type = "TX" state_stimulus = "high" waveform = "X_U19.Xpartial.4,0" max_xtalk = "88.142" highpeak_xtalk = "53.015" lowpeak_xtalk = "35.126" />
+					<PIN name = "2" RefDes = "U20" type = "RX" state_stimulus = "NA" waveform = "X_U20.Xpartial.2,0" max_xtalk = "449.286" highpeak_xtalk = "186.570" lowpeak_xtalk = "262.717" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "even" corner = "typ" curve = "./grp8/3/SpModel_051221_152320_V.CUR" >
+				<Net name = "L3_3H_SIG1">
+					<PIN name = "4" RefDes = "U17" type = "TX" state_stimulus = "even" waveform = "X_U17.Xpartial.4,0" max_xtalk = "5227.067" highpeak_xtalk = "100.647" lowpeak_xtalk = "5126.420" />
+					<PIN name = "2" RefDes = "U18" type = "RX" state_stimulus = "NA" waveform = "X_U18.Xpartial.2,0" max_xtalk = "6298.733" highpeak_xtalk = "83.920" lowpeak_xtalk = "6214.813" />
+				</Net>
+				<Net name = "L3_3H_SIG2">
+					<PIN name = "4" RefDes = "U19" type = "TX" state_stimulus = "low" waveform = "X_U19.Xpartial.4,0" max_xtalk = "94.242" highpeak_xtalk = "57.008" lowpeak_xtalk = "37.234" />
+					<PIN name = "2" RefDes = "U20" type = "RX" state_stimulus = "NA" waveform = "X_U20.Xpartial.2,0" max_xtalk = "446.207" highpeak_xtalk = "186.138" lowpeak_xtalk = "260.069" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "odd" corner = "typ" curve = "./grp8/4/SpModel_051221_152320_V.CUR" >
+				<Net name = "L3_3H_SIG1">
+					<PIN name = "4" RefDes = "U17" type = "TX" state_stimulus = "odd" waveform = "X_U17.Xpartial.4,0" max_xtalk = "5702.345" highpeak_xtalk = "5527.108" lowpeak_xtalk = "175.237" />
+					<PIN name = "2" RefDes = "U18" type = "RX" state_stimulus = "NA" waveform = "X_U18.Xpartial.2,0" max_xtalk = "8721.678" highpeak_xtalk = "8566.065" lowpeak_xtalk = "155.613" />
+				</Net>
+				<Net name = "L3_3H_SIG2">
+					<PIN name = "4" RefDes = "U19" type = "TX" state_stimulus = "low" waveform = "X_U19.Xpartial.4,0" max_xtalk = "109.970" highpeak_xtalk = "58.872" lowpeak_xtalk = "51.099" />
+					<PIN name = "2" RefDes = "U20" type = "RX" state_stimulus = "NA" waveform = "X_U20.Xpartial.2,0" max_xtalk = "606.599" highpeak_xtalk = "309.221" lowpeak_xtalk = "297.378" />
+				</Net>
+		</Sim>
+	</Group>
+	<Group name = "grp9" >
+		<Vic>
+			<Net name = "L3_3H_SIG1" />
+		</Vic>
+		<Agg>
+			<Net name = "L3_3H_SIG2" />
+		</Agg>
+		<Sim vicstate = "high" aggstimulus = "even" corner = "typ" curve = "./grp9/1/SpModel_051221_152323_V.CUR" >
+				<Net name = "L3_3H_SIG1">
+					<PIN name = "4" RefDes = "U17" type = "TX" state_stimulus = "high" waveform = "X_U17.Xpartial.4,0" max_xtalk = "103.569" highpeak_xtalk = "54.874" lowpeak_xtalk = "48.695" />
+					<PIN name = "2" RefDes = "U18" type = "RX" state_stimulus = "NA" waveform = "X_U18.Xpartial.2,0" max_xtalk = "617.533" highpeak_xtalk = "312.509" lowpeak_xtalk = "305.023" />
+				</Net>
+				<Net name = "L3_3H_SIG2">
+					<PIN name = "4" RefDes = "U19" type = "TX" state_stimulus = "even" waveform = "X_U19.Xpartial.4,0" max_xtalk = "5702.400" highpeak_xtalk = "5527.162" lowpeak_xtalk = "175.238" />
+					<PIN name = "2" RefDes = "U20" type = "RX" state_stimulus = "NA" waveform = "X_U20.Xpartial.2,0" max_xtalk = "8721.996" highpeak_xtalk = "8566.407" lowpeak_xtalk = "155.589" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "high" aggstimulus = "odd" corner = "typ" curve = "./grp9/2/SpModel_051221_152323_V.CUR" >
+				<Net name = "L3_3H_SIG1">
+					<PIN name = "4" RefDes = "U17" type = "TX" state_stimulus = "high" waveform = "X_U17.Xpartial.4,0" max_xtalk = "88.095" highpeak_xtalk = "52.970" lowpeak_xtalk = "35.126" />
+					<PIN name = "2" RefDes = "U18" type = "RX" state_stimulus = "NA" waveform = "X_U18.Xpartial.2,0" max_xtalk = "448.985" highpeak_xtalk = "186.654" lowpeak_xtalk = "262.331" />
+				</Net>
+				<Net name = "L3_3H_SIG2">
+					<PIN name = "4" RefDes = "U19" type = "TX" state_stimulus = "odd" waveform = "X_U19.Xpartial.4,0" max_xtalk = "5226.937" highpeak_xtalk = "100.647" lowpeak_xtalk = "5126.290" />
+					<PIN name = "2" RefDes = "U20" type = "RX" state_stimulus = "NA" waveform = "X_U20.Xpartial.2,0" max_xtalk = "6298.746" highpeak_xtalk = "83.899" lowpeak_xtalk = "6214.847" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "even" corner = "typ" curve = "./grp9/3/SpModel_051221_152323_V.CUR" >
+				<Net name = "L3_3H_SIG1">
+					<PIN name = "4" RefDes = "U17" type = "TX" state_stimulus = "low" waveform = "X_U17.Xpartial.4,0" max_xtalk = "94.185" highpeak_xtalk = "56.947" lowpeak_xtalk = "37.238" />
+					<PIN name = "2" RefDes = "U18" type = "RX" state_stimulus = "NA" waveform = "X_U18.Xpartial.2,0" max_xtalk = "445.929" highpeak_xtalk = "186.225" lowpeak_xtalk = "259.704" />
+				</Net>
+				<Net name = "L3_3H_SIG2">
+					<PIN name = "4" RefDes = "U19" type = "TX" state_stimulus = "even" waveform = "X_U19.Xpartial.4,0" max_xtalk = "5227.027" highpeak_xtalk = "100.647" lowpeak_xtalk = "5126.380" />
+					<PIN name = "2" RefDes = "U20" type = "RX" state_stimulus = "NA" waveform = "X_U20.Xpartial.2,0" max_xtalk = "6298.746" highpeak_xtalk = "83.898" lowpeak_xtalk = "6214.849" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "odd" corner = "typ" curve = "./grp9/4/SpModel_051221_152323_V.CUR" >
+				<Net name = "L3_3H_SIG1">
+					<PIN name = "4" RefDes = "U17" type = "TX" state_stimulus = "low" waveform = "X_U17.Xpartial.4,0" max_xtalk = "109.981" highpeak_xtalk = "58.876" lowpeak_xtalk = "51.105" />
+					<PIN name = "2" RefDes = "U18" type = "RX" state_stimulus = "NA" waveform = "X_U18.Xpartial.2,0" max_xtalk = "606.131" highpeak_xtalk = "308.982" lowpeak_xtalk = "297.149" />
+				</Net>
+				<Net name = "L3_3H_SIG2">
+					<PIN name = "4" RefDes = "U19" type = "TX" state_stimulus = "odd" waveform = "X_U19.Xpartial.4,0" max_xtalk = "5702.409" highpeak_xtalk = "5527.172" lowpeak_xtalk = "175.238" />
+					<PIN name = "2" RefDes = "U20" type = "RX" state_stimulus = "NA" waveform = "X_U20.Xpartial.2,0" max_xtalk = "8722.025" highpeak_xtalk = "8566.439" lowpeak_xtalk = "155.587" />
+				</Net>
+		</Sim>
+	</Group>
+	<Group name = "grp10" >
+		<Vic>
+			<Net name = "L3_6H_SIG2" />
+		</Vic>
+		<Agg>
+			<Net name = "L3_6H_SIG1" />
+		</Agg>
+		<Sim vicstate = "high" aggstimulus = "even" corner = "typ" curve = "./grp10/1/SpModel_051221_152317_V.CUR" >
+				<Net name = "L3_6H_SIG1">
+					<PIN name = "4" RefDes = "U21" type = "TX" state_stimulus = "even" waveform = "X_U21.Xpartial.4,0" max_xtalk = "5707.401" highpeak_xtalk = "5532.103" lowpeak_xtalk = "175.298" />
+					<PIN name = "2" RefDes = "U22" type = "RX" state_stimulus = "NA" waveform = "X_U22.Xpartial.2,0" max_xtalk = "8743.383" highpeak_xtalk = "8586.985" lowpeak_xtalk = "156.398" />
+				</Net>
+				<Net name = "L3_6H_SIG2">
+					<PIN name = "4" RefDes = "U23" type = "TX" state_stimulus = "high" waveform = "X_U23.Xpartial.4,0" max_xtalk = "16.782" highpeak_xtalk = "8.766" lowpeak_xtalk = "8.016" />
+					<PIN name = "2" RefDes = "U24" type = "RX" state_stimulus = "NA" waveform = "X_U24.Xpartial.2,0" max_xtalk = "92.302" highpeak_xtalk = "47.510" lowpeak_xtalk = "44.792" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "high" aggstimulus = "odd" corner = "typ" curve = "./grp10/2/SpModel_051221_152317_V.CUR" >
+				<Net name = "L3_6H_SIG1">
+					<PIN name = "4" RefDes = "U21" type = "TX" state_stimulus = "odd" waveform = "X_U21.Xpartial.4,0" max_xtalk = "5231.719" highpeak_xtalk = "100.678" lowpeak_xtalk = "5131.041" />
+					<PIN name = "2" RefDes = "U22" type = "RX" state_stimulus = "NA" waveform = "X_U22.Xpartial.2,0" max_xtalk = "6303.003" highpeak_xtalk = "84.497" lowpeak_xtalk = "6218.505" />
+				</Net>
+				<Net name = "L3_6H_SIG2">
+					<PIN name = "4" RefDes = "U23" type = "TX" state_stimulus = "high" waveform = "X_U23.Xpartial.4,0" max_xtalk = "15.269" highpeak_xtalk = "9.194" lowpeak_xtalk = "6.075" />
+					<PIN name = "2" RefDes = "U24" type = "RX" state_stimulus = "NA" waveform = "X_U24.Xpartial.2,0" max_xtalk = "75.516" highpeak_xtalk = "31.016" lowpeak_xtalk = "44.500" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "even" corner = "typ" curve = "./grp10/3/SpModel_051221_152317_V.CUR" >
+				<Net name = "L3_6H_SIG1">
+					<PIN name = "4" RefDes = "U21" type = "TX" state_stimulus = "even" waveform = "X_U21.Xpartial.4,0" max_xtalk = "5231.722" highpeak_xtalk = "100.678" lowpeak_xtalk = "5131.044" />
+					<PIN name = "2" RefDes = "U22" type = "RX" state_stimulus = "NA" waveform = "X_U22.Xpartial.2,0" max_xtalk = "6303.003" highpeak_xtalk = "84.497" lowpeak_xtalk = "6218.506" />
+				</Net>
+				<Net name = "L3_6H_SIG2">
+					<PIN name = "4" RefDes = "U23" type = "TX" state_stimulus = "low" waveform = "X_U23.Xpartial.4,0" max_xtalk = "16.281" highpeak_xtalk = "9.849" lowpeak_xtalk = "6.432" />
+					<PIN name = "2" RefDes = "U24" type = "RX" state_stimulus = "NA" waveform = "X_U24.Xpartial.2,0" max_xtalk = "74.956" highpeak_xtalk = "30.991" lowpeak_xtalk = "43.965" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "odd" corner = "typ" curve = "./grp10/4/SpModel_051221_152317_V.CUR" >
+				<Net name = "L3_6H_SIG1">
+					<PIN name = "4" RefDes = "U21" type = "TX" state_stimulus = "odd" waveform = "X_U21.Xpartial.4,0" max_xtalk = "5707.402" highpeak_xtalk = "5532.104" lowpeak_xtalk = "175.298" />
+					<PIN name = "2" RefDes = "U22" type = "RX" state_stimulus = "NA" waveform = "X_U22.Xpartial.2,0" max_xtalk = "8743.383" highpeak_xtalk = "8586.986" lowpeak_xtalk = "156.398" />
+				</Net>
+				<Net name = "L3_6H_SIG2">
+					<PIN name = "4" RefDes = "U23" type = "TX" state_stimulus = "low" waveform = "X_U23.Xpartial.4,0" max_xtalk = "17.924" highpeak_xtalk = "9.327" lowpeak_xtalk = "8.597" />
+					<PIN name = "2" RefDes = "U24" type = "RX" state_stimulus = "NA" waveform = "X_U24.Xpartial.2,0" max_xtalk = "90.247" highpeak_xtalk = "46.800" lowpeak_xtalk = "43.447" />
+				</Net>
+		</Sim>
+	</Group>
+	<Group name = "grp11" >
+		<Vic>
+			<Net name = "L3_6H_SIG1" />
+		</Vic>
+		<Agg>
+			<Net name = "L3_6H_SIG2" />
+		</Agg>
+		<Sim vicstate = "high" aggstimulus = "even" corner = "typ" curve = "./grp11/1/SpModel_051221_152320_V.CUR" >
+				<Net name = "L3_6H_SIG1">
+					<PIN name = "4" RefDes = "U21" type = "TX" state_stimulus = "high" waveform = "X_U21.Xpartial.4,0" max_xtalk = "16.782" highpeak_xtalk = "8.766" lowpeak_xtalk = "8.016" />
+					<PIN name = "2" RefDes = "U22" type = "RX" state_stimulus = "NA" waveform = "X_U22.Xpartial.2,0" max_xtalk = "92.246" highpeak_xtalk = "47.482" lowpeak_xtalk = "44.764" />
+				</Net>
+				<Net name = "L3_6H_SIG2">
+					<PIN name = "4" RefDes = "U23" type = "TX" state_stimulus = "even" waveform = "X_U23.Xpartial.4,0" max_xtalk = "5707.464" highpeak_xtalk = "5532.166" lowpeak_xtalk = "175.298" />
+					<PIN name = "2" RefDes = "U24" type = "RX" state_stimulus = "NA" waveform = "X_U24.Xpartial.2,0" max_xtalk = "8743.558" highpeak_xtalk = "8587.078" lowpeak_xtalk = "156.480" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "high" aggstimulus = "odd" corner = "typ" curve = "./grp11/2/SpModel_051221_152320_V.CUR" >
+				<Net name = "L3_6H_SIG1">
+					<PIN name = "4" RefDes = "U21" type = "TX" state_stimulus = "high" waveform = "X_U21.Xpartial.4,0" max_xtalk = "15.269" highpeak_xtalk = "9.190" lowpeak_xtalk = "6.079" />
+					<PIN name = "2" RefDes = "U22" type = "RX" state_stimulus = "NA" waveform = "X_U22.Xpartial.2,0" max_xtalk = "75.430" highpeak_xtalk = "31.021" lowpeak_xtalk = "44.409" />
+				</Net>
+				<Net name = "L3_6H_SIG2">
+					<PIN name = "4" RefDes = "U23" type = "TX" state_stimulus = "odd" waveform = "X_U23.Xpartial.4,0" max_xtalk = "5231.723" highpeak_xtalk = "100.678" lowpeak_xtalk = "5131.045" />
+					<PIN name = "2" RefDes = "U24" type = "RX" state_stimulus = "NA" waveform = "X_U24.Xpartial.2,0" max_xtalk = "6303.123" highpeak_xtalk = "84.568" lowpeak_xtalk = "6218.555" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "even" corner = "typ" curve = "./grp11/3/SpModel_051221_152317_V.CUR" >
+				<Net name = "L3_6H_SIG1">
+					<PIN name = "4" RefDes = "U21" type = "TX" state_stimulus = "low" waveform = "X_U21.Xpartial.4,0" max_xtalk = "16.282" highpeak_xtalk = "9.844" lowpeak_xtalk = "6.437" />
+					<PIN name = "2" RefDes = "U22" type = "RX" state_stimulus = "NA" waveform = "X_U22.Xpartial.2,0" max_xtalk = "74.877" highpeak_xtalk = "30.995" lowpeak_xtalk = "43.882" />
+				</Net>
+				<Net name = "L3_6H_SIG2">
+					<PIN name = "4" RefDes = "U23" type = "TX" state_stimulus = "even" waveform = "X_U23.Xpartial.4,0" max_xtalk = "5231.725" highpeak_xtalk = "100.678" lowpeak_xtalk = "5131.048" />
+					<PIN name = "2" RefDes = "U24" type = "RX" state_stimulus = "NA" waveform = "X_U24.Xpartial.2,0" max_xtalk = "6303.123" highpeak_xtalk = "84.568" lowpeak_xtalk = "6218.555" />
+				</Net>
+		</Sim>
+		<Sim vicstate = "low" aggstimulus = "odd" corner = "typ" curve = "./grp11/4/SpModel_051221_152317_V.CUR" >
+				<Net name = "L3_6H_SIG1">
+					<PIN name = "4" RefDes = "U21" type = "TX" state_stimulus = "low" waveform = "X_U21.Xpartial.4,0" max_xtalk = "17.925" highpeak_xtalk = "9.328" lowpeak_xtalk = "8.597" />
+					<PIN name = "2" RefDes = "U22" type = "RX" state_stimulus = "NA" waveform = "X_U22.Xpartial.2,0" max_xtalk = "90.198" highpeak_xtalk = "46.774" lowpeak_xtalk = "43.423" />
+				</Net>
+				<Net name = "L3_6H_SIG2">
+					<PIN name = "4" RefDes = "U23" type = "TX" state_stimulus = "odd" waveform = "X_U23.Xpartial.4,0" max_xtalk = "5707.464" highpeak_xtalk = "5532.167" lowpeak_xtalk = "175.298" />
+					<PIN name = "2" RefDes = "U24" type = "RX" state_stimulus = "NA" waveform = "X_U24.Xpartial.2,0" max_xtalk = "8743.559" highpeak_xtalk = "8587.079" lowpeak_xtalk = "156.480" />
+				</Net>
+		</Sim>
+	</Group>
+</XTalkResult>

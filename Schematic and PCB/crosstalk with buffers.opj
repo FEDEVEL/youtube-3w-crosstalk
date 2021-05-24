@@ -1,0 +1,123 @@
+(ExpressProject "crosstalk with buffers"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S013 (3906575)  [12/6/2020]-[05/18/21]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\schlib.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\crosstalk with buffers.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\crosstalk with buffers.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Display_Online_DRC_Results "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (SN74LVC1G17DSFR
+      (FullPartName "SN74LVC1G17DSFR.Normal")
+      (LibraryName
+         "D:\USERS\ROBO\GITHUB\YOUTUBE-3W-CROSSTALK\SCHEMATIC AND PCB\SCHLIB.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "d:\users\robo\github\youtube-3w-crosstalk\schematic and pcb\crosstalk with buffers.dsn")
+      (Path "Design Resources"
+         "d:\users\robo\github\youtube-3w-crosstalk\schematic and pcb\crosstalk with buffers.dsn"
+         "Crosstalk Project")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "d:\users\robo\github\youtube-3w-crosstalk\schematic and pcb\schlib.olb")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "d:\users\robo\github\youtube-3w-crosstalk\schematic and pcb\crosstalk with buffers.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 911"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1674 24 929"))
+      (Path
+         "D:\USERS\ROBO\GITHUB\YOUTUBE-3W-CROSSTALK\SCHEMATIC AND PCB\SCHLIB.OLB")
+      (Package "SN74LVC1G17DSFR")
+      (PartType "1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 929")
+        (Scroll "0 0")
+        (Zoom "121")
+        (Occurrence "/"))
+      (Path
+         "D:\USERS\ROBO\GITHUB\YOUTUBE-3W-CROSSTALK\SCHEMATIC AND PCB\CROSSTALK WITH BUFFERS.DSN")
+      (Schematic "Crosstalk Project")
+      (Page "Schematic")))
+  (MPSSessionName "rober")
+  (ISPCBBASICLICENSE "false"))

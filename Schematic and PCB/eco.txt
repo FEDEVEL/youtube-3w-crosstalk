@@ -1,0 +1,137 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:.../Github/youtube-3w-crosstalk/Schematic and PCB/crosstallk_pcb.brd      |
+|                                                    Wed May 12 06:24:10 2021  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  EXAMPLE1_SIG1 net RENAMED (to net name listed on right)           L1_1H_SIG1   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXAMPLE1_SIG2 net RENAMED (to net name listed on right)           L1_1H_SIG2   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXAMPLE2_SIG1 net RENAMED (to net name listed on right)           L1_3H_SIG1   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXAMPLE2_SIG2 net RENAMED (to net name listed on right)           L1_3H_SIG2   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXAMPLE3_SIG1 net RENAMED (to net name listed on right)           L1_6H_SIG1   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXAMPLE3_SIG2 net RENAMED (to net name listed on right)           L1_6H_SIG2   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 U13.3                          
+                                 U14.3                          
+                                 U15.3                          
+                                 U16.3                          
+                                 U17.3                          
+                                 U18.3                          
+                                 U19.3                          
+                                 U20.3                          
+                                 U21.3                          
+                                 U22.3                          
+                                 U23.3                          
+                                 U24.3                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  L3_1H_SIG1   pins ADDED TO this new net
+                                 U13.4                          
+                                 U14.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  L3_1H_SIG2   pins ADDED TO this new net
+                                 U15.4                          
+                                 U16.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  L3_3H_SIG1   pins ADDED TO this new net
+                                 U17.4                          
+                                 U18.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  L3_3H_SIG2   pins ADDED TO this new net
+                                 U19.4                          
+                                 U20.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  L3_6H_SIG1   pins ADDED TO this new net
+                                 U21.4                          
+                                 U22.2                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:.../Github/youtube-3w-crosstalk/Schematic and PCB/crosstallk_pcb.brd      |
+|                                                    Wed May 12 06:24:10 2021  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  L3_6H_SIG2   pins ADDED TO this new net
+                                 U23.4                          
+                                 U24.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins ADDED TO this existing net (pins not previously on any net)
+                                 U13.6                          
+                                 U14.6                          
+                                 U15.6                          
+                                 U16.6                          
+                                 U17.6                          
+                                 U18.6                          
+                                 U19.6                          
+                                 U20.6                          
+                                 U21.6                          
+                                 U22.6                          
+                                 U23.6                          
+                                 U24.6                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:.../Github/youtube-3w-crosstalk/Schematic and PCB/crosstallk_pcb.brd      |
+|                                                    Wed May 12 06:24:10 2021  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U13                 SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR 
+ U14                 SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR 
+ U15                 SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR 
+ U16                 SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR 
+ U17                 SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR 
+ U18                 SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR 
+ U19                 SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR 
+ U20                 SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR 
+ U21                 SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR 
+ U22                 SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR 
+ U23                 SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR 
+ U24                 SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../Github/youtube-3w-crosstalk/Schematic and PCB/crosstallk_pcb.brd      |
+|                                                    Wed May 12 06:24:10 2021  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U13.4                          PRIM_FILE      .\pstchip.dat
+ U14.4                          PRIM_FILE      .\pstchip.dat
+ U15.4                          PRIM_FILE      .\pstchip.dat
+ U16.4                          PRIM_FILE      .\pstchip.dat
+ U17.4                          PRIM_FILE      .\pstchip.dat
+ U18.4                          PRIM_FILE      .\pstchip.dat
+ U19.4                          PRIM_FILE      .\pstchip.dat
+ U20.4                          PRIM_FILE      .\pstchip.dat
+ U21.4                          PRIM_FILE      .\pstchip.dat
+ U22.4                          PRIM_FILE      .\pstchip.dat
+ U23.4                          PRIM_FILE      .\pstchip.dat
+ U24.4                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      42                                        |
+|       Components added      :      12                                        |
+|       Slot property added   :      12                                        |
+|                                                                              |
+|   Total ECO changes reported:      66                                        |
+|------------------------------------------------------------------------------|

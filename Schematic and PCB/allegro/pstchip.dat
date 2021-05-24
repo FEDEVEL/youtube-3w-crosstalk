@@ -1,0 +1,30 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.4.0 d001May-12-2021 at 06:18:13}
+primitive 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR';
+  pin
+    'NC_1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'A':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'Y':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'NC_2':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'VCC':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SN74LVC1G17DSFR';
+    JEDEC_TYPE='dsf';
+    VALUE='SN74LVC1G17DSFR';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xtlkida>
+<XTalkResult version="1.0">
+    <Simulation type="coupling" data="./crosstalk analysis/xtalk_coupling.cplida"/>
+    <Simulation type="all" data="./crosstalk analysis/all/IDAXTalkResult.xml"/>
+    <Simulation type="each" data="./crosstalk analysis/each/IDAXTalkResult.xml"/>
+</XTalkResult>

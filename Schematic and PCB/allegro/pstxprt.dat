@@ -1,0 +1,250 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001May-12-2021 at 06:18:13 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CROSSTALK WITH BUFFERS';
+ POST_TIME='Dec  6 2020 14:07:58';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ U1 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS34@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins34@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins34@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS1961@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins1961@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins1961@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS2053@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins2053@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins2053@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS2077@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins2077@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins2077@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS3224@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins3224@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins3224@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS3248@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins3248@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins3248@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS3340@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins3340@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins3340@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U16 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS3364@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins3364@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins3364@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U17 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS3428@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins3428@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins3428@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U18 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS3452@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins3452@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins3452@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U19 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS3544@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins3544@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins3544@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS82@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins82@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins82@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U20 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS3568@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins3568@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins3568@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U21 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS3632@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins3632@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins3632@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U22 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS3656@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins3656@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins3656@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U23 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS3748@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins3748@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins3748@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U24 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS3772@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins3772@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins3772@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS58@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins58@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins58@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS106@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins106@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins106@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS1510@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins1510@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins1510@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS1534@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins1534@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins1534@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS1626@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins1626@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins1626@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS1650@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins1650@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins1650@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'SN74LVC1G17DSFR_DSF_SN74LVC1G17DSFR':;
+
+SECTION_NUMBER 1
+ '@CROSSTALK WITH BUFFERS.CROSSTALK PROJECT(SCH_1):INS1937@SCHLIB.SN74LVC1G17DSFR.NORMAL(CHIPS)':
+ C_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):ins1937@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ P_PATH='@\crosstalk with buffers\.\crosstalk project\(sch_1):page1_ins1937@schlib.\sn74lvc1g17dsfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
